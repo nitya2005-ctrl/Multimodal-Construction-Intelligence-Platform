@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗️ Multimodal Construction Intelligence Platform
 
 AI-powered decision support for construction: **PPE safety audits**, **concrete crack diagnostics**, **cost & real-estate valuation in INR**, and **weather-aware daily protocols** — with an engineering chatbot. Skill Wallet Capstone Project 1.
@@ -93,3 +94,6 @@ i5 8th-gen / Ryzen 5, 8 GB RAM (16 GB recommended), 256 GB SSD, 10+ Mbps. Window
 
 ## Disclaimer
 Outputs are AI-assisted estimates for decision support. Safety findings, structural diagnoses and valuations must be verified by a qualified safety officer, structural engineer or registered valuer.
+=======
+# Multimodal-Construction-Intelligence-Platform
+>>>>>>> origin/main
